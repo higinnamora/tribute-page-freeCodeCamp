@@ -1,0 +1,66 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  background-color: #f0ebeb;
+}
+.header {
+  text-align: center;
+}
+.header h1 {
+  color: #b28405;
+}
+.header p {
+  font-style: italic;
+}
+.header p:last-child {
+  font-weight: bold;
+  color: #b28405;
+}
+#img-caption {
+  margin: 4px 0;
+  font-style: italic;
+}
+#main {
+  margin: 20px auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+.container-img {
+  text-align: center;
+}
+.tribute-info p strong {
+  color: #b28405;
+}
+#image {
+max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+.bibliographies h3 {
+  color: #b28405;
+}
+#tribute-link {
+  display: flex;
+  flex-direction: column;
+}
+.tribute-link a {
+  color: black;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #b28405;
+  color: white;
+  height: 40px;
+}
+.container-img {
+  max-width: 500px;
+}
+

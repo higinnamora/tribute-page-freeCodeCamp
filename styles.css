@@ -45,7 +45,7 @@ margin: 0 auto;
 .bibliographies h3 {
   color: #b28405;
 }
-#tribute-link {
+.tribute-link {
   display: flex;
   flex-direction: column;
 }
